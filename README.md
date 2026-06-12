@@ -1,3 +1,1 @@
-```bash
-jdl ahaoboy jdl dist
-```
+https://github.com/ahaoboy/jsdelivr-download
